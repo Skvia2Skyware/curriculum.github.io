@@ -1,0 +1,7 @@
+.logo {
+ height: 90px;
+  position: fixed;
+  bottom: 20px;
+  right: 2px;
+  z-index: 999;
+}

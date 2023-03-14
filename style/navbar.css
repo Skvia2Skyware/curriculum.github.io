@@ -1,0 +1,34 @@
+
+.navbar-light {
+    height: 50px;
+}
+.navbar-brand {
+ height: 30px;
+ transition: 0.7s;
+    width: auto;
+    margin-top: -20px;
+}
+small{
+   
+color: rgb(158, 158, 158);
+font-size: large;
+font-family:'Brown', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.name {
+    margin-left: 20px;
+    font-family: rgb(141, 141, 141);
+    
+}
+
+
+.color {
+    background-color: rgb(228, 228, 228);
+}
+
+.fa-wsp {
+    height: 30px;
+}
+.fa-ing {
+    height:  45px;
+}
+

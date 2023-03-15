@@ -1,0 +1,31 @@
+.carousel {
+    width: 40%;
+    max-width: 120%;
+}
+
+.carousel-inner {
+    width: 300%;
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.item {
+    width: calc(100% / 3);
+
+}
+
+.glyphicon {
+    width: 100%;
+    padding: 1em;
+    background-color: red;
+}
+
+.sr-only {
+    width: 1em;
+    height: 1em;
+   background-color: red; 
+}
+
+

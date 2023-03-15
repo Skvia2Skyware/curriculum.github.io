@@ -1,0 +1,29 @@
+.exp {
+    text-align: center;
+    width: 100%;
+    max-width: 120%;
+    text-justify: auto;
+    font-family: 'Brown';
+    font-size: 4vh;
+    margin-top: 8vh;
+    color: rgb(184, 184, 184);
+}
+
+.container-datos {
+    display: flex;
+    text-align: center;
+    font-family: 'Brown';
+}
+.cnc {
+    text-align: center;
+    font-family: 'Brown';
+    font-size: 1.5vh;
+    color: rgb(136, 136, 136);
+}
+
+.des {
+    text-align: center;
+    font-family: 'Brown';
+    font-size: 1.5vh;
+    color: rgb(136, 136, 136);
+}
